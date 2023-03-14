@@ -1,0 +1,24 @@
+[
+  {
+    "id": "77be36b1-3111-4157-beb0-545b806ba300",
+    "title": "Titulo",
+    "description": "Description",
+    "code": "abc123",
+    "price": 123,
+    "status": true,
+    "stock": 45,
+    "category": "",
+    "thumbnail": "no img"
+  },
+  {
+    "id": "65f420fd-b560-4211-9f4d-a29292d1373e",
+    "title": "Titulo",
+    "description": "Description",
+    "code": "abc123",
+    "price": 123,
+    "status": true,
+    "stock": 45,
+    "category": "",
+    "thumbnail": "no img"
+  }
+]
