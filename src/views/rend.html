@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js"></script>
+    <script src="/socket.io/socket.io.js"></script>
+    <title>Document</title>
+</head>
+<body>
+    <div id='products'>
+        
+    </div>
+</body>
+</html>
+
+<script> 
+    
+    let socket = io();
+
+socket.on('actualizar', function(msg){
+
+    let products = document.getElementById('products');
+    var template = Handlebars.compile(`<h1>{{encabezado}}</h1>
+{{#if hayProductos}}
+<ul>
+    {{#each productos}}
+    <li><p> Product ID : {{id}}</p>
+    <p>Title : {{title}}</p>
+    <p>Code : {{code}}</p>
+    <p>Price : {{price}}</p>
+    <p>Status : {{status}}</p>
+    <p>Stock : {{stock}}</p>
+    <p>Category : {{category}}</p>
+    <p>Thumbnail : {{thumbnail}}</p></li>
+    {{/each}}
+</ul>
+{{else}}
+<p>No products found.</p>
+{{/if}}`)
+
+    const list = template({encabezado: 'Lista de Productos', hayProductos: msg.length > 0, productos: msg})
+    products.innerHTML=list
+    console.log(list)
+})
+
+</script>
+

@@ -1,0 +1,175 @@
+[
+  {
+    "id": "6e75d404-c757-4bbc-8a96-e51a00a5f3a3",
+    "title": "Product 3",
+    "description": "Description",
+    "code": "JJR10",
+    "price": 123,
+    "status": true,
+    "stock": 45,
+    "category": "sin categoria",
+    "thumbnail": "no img"
+  },
+  {
+    "id": "c65000b6-6d4b-4589-9246-7b7da094c025"
+  },
+  {
+    "title": "Product 4",
+    "description": "No description available",
+    "code": "JJR10",
+    "price": 10,
+    "status": true,
+    "stock": 1,
+    "category": "non categorizable",
+    "thumbnail": "no img"
+  },
+  {
+    "title": "Product 4",
+    "description": "No description available",
+    "code": "JJR10",
+    "price": 10,
+    "status": true,
+    "stock": 1,
+    "category": "non categorizable",
+    "thumbnail": "no img"
+  },
+  {
+    "title": "Product 4",
+    "description": "No description available",
+    "code": "JJR10",
+    "price": 10,
+    "status": true,
+    "stock": 1,
+    "category": "non categorizable",
+    "thumbnail": "no img"
+  },
+  {
+    "title": "Product 4",
+    "description": "No description available",
+    "code": "JJR10",
+    "price": 10,
+    "status": true,
+    "stock": 1,
+    "category": "non categorizable",
+    "thumbnail": "no img"
+  },
+  {
+    "title": "Product 4",
+    "description": "No description available",
+    "code": "JJR10",
+    "price": 10,
+    "status": true,
+    "stock": 1,
+    "category": "non categorizable",
+    "thumbnail": "no img"
+  },
+  {
+    "title": "Product 4",
+    "description": "No description available",
+    "code": "JJR10",
+    "price": 10,
+    "status": true,
+    "stock": 1,
+    "category": "non categorizable",
+    "thumbnail": "no img"
+  },
+  {
+    "id": "2bec6a87-ffc4-4092-9964-4061e4a4715c",
+    "title": "Product 4",
+    "description": "No description available",
+    "code": "JJR10",
+    "price": 10,
+    "status": true,
+    "stock": 1,
+    "category": "non categorizable",
+    "thumbnail": "no img"
+  },
+  {
+    "id": "b3513793-05e2-4151-8d70-9a27b001b4eb",
+    "title": "Product 4",
+    "description": "No description available",
+    "code": "JJR10",
+    "price": 10,
+    "status": true,
+    "stock": 1,
+    "category": "non categorizable",
+    "thumbnail": "no img"
+  },
+  {
+    "id": "45dd3a88-8186-4812-80e4-fef69b16829d",
+    "title": "Product 4",
+    "description": "No description available",
+    "code": "JJR10",
+    "price": 10,
+    "status": true,
+    "stock": 1,
+    "category": "non categorizable",
+    "thumbnail": "no img"
+  },
+  {
+    "id": "2f216b9a-9ef4-4a14-9ea6-8f41690d8437",
+    "title": "Product 4",
+    "description": "No description available",
+    "code": "JJR10",
+    "price": 10,
+    "status": true,
+    "stock": 1,
+    "category": "non categorizable",
+    "thumbnail": "no img"
+  },
+  {
+    "id": "f0a88481-f7b1-489f-a924-62b16c78264e",
+    "title": "Product 4",
+    "description": "No description available",
+    "code": "JJR10",
+    "price": 10,
+    "status": true,
+    "stock": 1,
+    "category": "non categorizable",
+    "thumbnail": "no img"
+  },
+  {
+    "id": "6ef0c63c-a1c1-4db8-a73d-2692c8c83498",
+    "title": "Product 4",
+    "description": "No description available",
+    "code": "JJR10",
+    "price": 10,
+    "status": true,
+    "stock": 1,
+    "category": "non categorizable",
+    "thumbnail": "no img"
+  },
+  {
+    "id": "315d6b9b-f923-4d16-9b72-3fe70fc5a6d3",
+    "title": "Product 4",
+    "description": "No description available",
+    "code": "JJR10",
+    "price": 10,
+    "status": true,
+    "stock": 1,
+    "category": "non categorizable",
+    "thumbnail": "no img"
+  },
+  {
+    "id": "f003569b-0c97-4781-9513-9e27a298427a",
+    "title": "Product 4",
+    "description": "No description available",
+    "code": "JJR10",
+    "price": 10,
+    "status": true,
+    "stock": 1,
+    "category": "non categorizable",
+    "thumbnail": "no img"
+  },
+  {
+    "id": "b4fb8e1a-ed88-4a09-bffc-bc85dd3c2b99",
+    "title": "Product 4",
+    "description": "No description available",
+    "code": "JJR10",
+    "price": 10,
+    "status": true,
+    "stock": 1,
+    "category": "non categorizable",
+    "thumbnail": "no img"
+  }
+]

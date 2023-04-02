@@ -1,0 +1,19 @@
+
+<h1>{{encabezado}}</h1>
+{{#if hayProductos}}
+<ul>
+    {{#each productos}}
+    <li><p> Product ID : {{id}}</p>
+    <p>Title : {{title}}</p>
+    <p>Code : {{code}}</p>
+    <p>Price : {{price}}</p>
+    <p>Status : {{status}}</p>
+    <p>Stock : {{stock}}</p>
+    <p>Category : {{category}}</p>
+    <p>Thumbnail : {{thumbnail}}</p></li>
+    {{/each}}
+</ul>
+{{else}}
+<p>No products found.</p>
+{{/if}}
+
